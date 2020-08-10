@@ -1,24 +1,70 @@
+
 .container {
     width: 500px;
     align-content: center;
-}
-
-.grid {
+    margin-top: 250px;
+    margin-left: 250px;
+  }
+  
+  .grid {
     height: 400px;
     width: 400px;
     display: flex;
     flex-wrap: wrap;
-    background-color: #2DA08C;
     margin-left: 50px;
     margin-top: 20px;
+    border: 10px solid #54C2AF;
     margin-bottom: 10px;
-    border: 10px solid #237F6F;
-
-}
-
-div {
+  }
+  
+  div {
     font-size: 25px;
-    text-align: center; 
-    /* come back later for font family */
-}
-
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+  
+  }
+  .valid {
+    height: 40px;
+    width: 40px;
+    border: 5px solid;
+    border-color: #18806E #54C2AF #18806E  #54C2AF;
+    box-sizing: border-box;
+  }
+  
+  .checked {
+    height: 40px;
+    width: 40px;
+    border: 2px solid;
+    background-color:#5D9087;
+    border-color: #18806E;
+    box-sizing: border-box;
+  }
+  
+  .bomb {
+    height: 40px;
+    width: 40px;
+    border: 5px solid;
+    border-color: #18806E #54C2AF #18806E #54C2AF;
+    box-sizing: border-box;
+  }
+  
+  .one {
+    color: #77F509;
+  }
+  
+  .two {
+    color: #F52409;
+  }
+  
+  .three {
+    color: #F509CC;
+  }
+  
+  .four{
+    color: #F5E709;
+  }
+  
+  #result {
+    margin-top: 5px;
+    color: #23CFCD;
+  }
