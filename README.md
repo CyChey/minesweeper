@@ -19,5 +19,6 @@ HTML/CSS/JavaScript
 
 <strong>How To Play: </strong>
 
+A game of luck! Click the squares and avoid the bombs! Not sure how you feel about a certain square? Right click it to 'flag' it.
 
 <strong>Did you enjoy this? Here's what else to expect: </strong>
