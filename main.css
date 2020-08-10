@@ -1,0 +1,24 @@
+.container {
+    width: 500px;
+    align-content: center;
+}
+
+.grid {
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #2DA08C;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 10px solid #237F6F;
+
+}
+
+div {
+    font-size: 25px;
+    text-align: center; 
+    /* come back later for font family */
+}
+
