@@ -2,8 +2,8 @@
 .container {
     width: 500px;
     align-content: center;
-    margin-top: 250px;
-    margin-left: 250px;
+    /* margin-top: 50%; */
+    margin-left: 35%;
   }
   
   .grid {
