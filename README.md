@@ -8,9 +8,9 @@ Who doesn't like a little blast from the past? We've all been there. Waiting for
 
 I hope you enjoy playing!
 
-<strong>Some Images From The Game: </strong>
+<strong>Image From The Game: </strong>
 
-
+![alt text](https://i.imgur.com/CbEgfQL.png) 
 
 <strong>Languages Used:</strong>
 
@@ -20,5 +20,8 @@ HTML/CSS/JavaScript
 <strong>How To Play: </strong>
 
 A game of luck! Click the squares and avoid the bombs! Not sure how you feel about a certain square? Right click it to 'flag' it.
+
+<strong>Link To The Game: </strong>
+https://cychey.github.io/minesweeper/
 
 <strong>Did you enjoy this? Here's what else to expect: </strong>
