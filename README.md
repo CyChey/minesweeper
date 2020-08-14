@@ -12,6 +12,10 @@ I hope you enjoy playing!
 
 ![alt text](https://i.imgur.com/CbEgfQL.png) 
 
+![alt text](https://i.imgur.com/ibwl5ne.png)
+
+![alt text](https://i.imgur.com/WUQkvDC.png)
+
 <strong>Languages Used:</strong>
 
 HTML/CSS/JavaScript
