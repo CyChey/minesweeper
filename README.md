@@ -29,3 +29,5 @@ A game of luck! Click the squares and avoid the bombs! Not sure how you feel abo
 https://cychey.github.io/minesweeper/
 
 <strong>Did you enjoy this? Here's what else to expect: </strong>
+
+I'm adding music! I believe this will make the game more enjoyable to play. I will also be including more graphics!
